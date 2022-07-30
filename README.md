@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Monchari
-- 👀 I’m proefficient in data java, python, SQL and php
+- 👀 I’m proefficient in java, python, SQL and php
 - 🌱 I’m currently learning data science, nlp
 - 💞️ I’m looking to collaborate on machine learning/ data science
 - 📫 How to reach me sharonmonchari18@gmail.com
